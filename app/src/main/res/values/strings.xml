@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseGithubAuth</string>
+    <string name="log_in_with_github">Login in with github</string>
+</resources>
